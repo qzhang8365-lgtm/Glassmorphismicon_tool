@@ -27,3 +27,5 @@
 ## 许可
 
 JSZip 按 MIT 许可使用，详见 THIRD_PARTY_NOTICES.txt。工具自身及内嵌的品牌、Figma设计素材未在此授予开源许可；公开仓库或公开发布前，应由资源权利人确认公开范围。
+
+<!-- Netlify redeploy after credit recovery: 2026-11-03 -->
